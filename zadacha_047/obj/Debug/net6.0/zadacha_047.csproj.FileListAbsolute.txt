@@ -1,0 +1,15 @@
+C:\Users\Eva\Desktop\Webinar5\zadacha_047\obj\Debug\net6.0\zadacha_047.csproj.AssemblyReference.cache
+C:\Users\Eva\Desktop\Webinar5\zadacha_047\obj\Debug\net6.0\zadacha_047.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eva\Desktop\Webinar5\zadacha_047\obj\Debug\net6.0\zadacha_047.AssemblyInfoInputs.cache
+C:\Users\Eva\Desktop\Webinar5\zadacha_047\obj\Debug\net6.0\zadacha_047.AssemblyInfo.cs
+C:\Users\Eva\Desktop\Webinar5\zadacha_047\obj\Debug\net6.0\zadacha_047.csproj.CoreCompileInputs.cache
+C:\Users\Eva\Desktop\Webinar5\zadacha_047\bin\Debug\net6.0\zadacha_047.exe
+C:\Users\Eva\Desktop\Webinar5\zadacha_047\bin\Debug\net6.0\zadacha_047.deps.json
+C:\Users\Eva\Desktop\Webinar5\zadacha_047\bin\Debug\net6.0\zadacha_047.runtimeconfig.json
+C:\Users\Eva\Desktop\Webinar5\zadacha_047\bin\Debug\net6.0\zadacha_047.dll
+C:\Users\Eva\Desktop\Webinar5\zadacha_047\bin\Debug\net6.0\zadacha_047.pdb
+C:\Users\Eva\Desktop\Webinar5\zadacha_047\obj\Debug\net6.0\zadacha_047.dll
+C:\Users\Eva\Desktop\Webinar5\zadacha_047\obj\Debug\net6.0\refint\zadacha_047.dll
+C:\Users\Eva\Desktop\Webinar5\zadacha_047\obj\Debug\net6.0\zadacha_047.pdb
+C:\Users\Eva\Desktop\Webinar5\zadacha_047\obj\Debug\net6.0\zadacha_047.genruntimeconfig.cache
+C:\Users\Eva\Desktop\Webinar5\zadacha_047\obj\Debug\net6.0\ref\zadacha_047.dll
